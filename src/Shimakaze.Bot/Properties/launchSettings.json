@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Shimakaze.Bot": {
+      "commandName": "Project",
+      "commandLineArgs": "--Account <Your Account>"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shimakaze.Kernel", "src\Shimakaze.Kernel\Shimakaze.Kernel.csproj", "{188AD272-AE58-48E8-8979-1D6CE3D2FA06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shimakaze.Konata", "src\Shimakaze.Konata\Shimakaze.Konata.csproj", "{B026FC1A-EAEC-4049-AF72-C1566EC2F251}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shimakaze.Services", "src\Shimakaze.Services\Shimakaze.Services.csproj", "{19E4DD4F-6883-4BE4-854C-AE9FCDFFC39E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shimakaze.Bot", "src\Shimakaze.Bot\Shimakaze.Bot.csproj", "{811893E4-9705-40F1-A54E-BDA668D6956F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{188AD272-AE58-48E8-8979-1D6CE3D2FA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188AD272-AE58-48E8-8979-1D6CE3D2FA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188AD272-AE58-48E8-8979-1D6CE3D2FA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188AD272-AE58-48E8-8979-1D6CE3D2FA06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B026FC1A-EAEC-4049-AF72-C1566EC2F251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B026FC1A-EAEC-4049-AF72-C1566EC2F251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B026FC1A-EAEC-4049-AF72-C1566EC2F251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B026FC1A-EAEC-4049-AF72-C1566EC2F251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E4DD4F-6883-4BE4-854C-AE9FCDFFC39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E4DD4F-6883-4BE4-854C-AE9FCDFFC39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E4DD4F-6883-4BE4-854C-AE9FCDFFC39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E4DD4F-6883-4BE4-854C-AE9FCDFFC39E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811893E4-9705-40F1-A54E-BDA668D6956F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811893E4-9705-40F1-A54E-BDA668D6956F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811893E4-9705-40F1-A54E-BDA668D6956F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811893E4-9705-40F1-A54E-BDA668D6956F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7C88F65-DADA-486A-B141-3A0D722164BF}
+	EndGlobalSection
+EndGlobal
